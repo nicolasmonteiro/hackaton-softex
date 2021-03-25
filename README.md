@@ -1,6 +1,9 @@
 # Hackaton SOFTEX
 Hackaton oferecido pela SOFTEX como finalização do curso de desenvolvimento de software
 
+## Tema
+ODS 12 – Consumo e produção responsáveis
+
 ## Sobre
 
 ### Colaboradores
